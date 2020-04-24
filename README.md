@@ -13,3 +13,6 @@ this sw use several tools such as
 - postgress
 
 ## Fecha
+
+### Copyrigth
+Collaborators in that project are...
