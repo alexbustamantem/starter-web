@@ -10,7 +10,10 @@ Sample website with plenty of files for demos
 
 this sw use several tools such as 
 - flask
-- postgress
+- postgress}
+
+## How to contribute
+send the information to the email alex.bustamante@gmail.com
 
 ## Fecha
 
